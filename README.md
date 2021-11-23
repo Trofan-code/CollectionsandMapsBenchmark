@@ -31,5 +31,5 @@ o	removing.
 •	In case of screen rotation/recreation of activity, the computation process should not be stopped.
 
 
-# Technology stack
-•	Language - Java
+
+
